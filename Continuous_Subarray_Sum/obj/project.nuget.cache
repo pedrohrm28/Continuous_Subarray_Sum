@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nKoqJYgwWbY2znUkECBmxgjSHj1n5LiR1csmrDsyRNTy5DX1hOb1UvZCikifrhq+RGwiWFBRRXJJKFpwQDJshg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\paula\\OneDrive\\Área de Trabalho\\python\\Continuous_Subarray_Sum\\Continuous_Subarray_Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paula\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\paula\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\paula\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\paula\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

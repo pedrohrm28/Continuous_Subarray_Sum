@@ -1,0 +1,15 @@
+C:\Users\paula\OneDrive\Área de Trabalho\python\Continuous_Subarray_Sum\obj\Debug\net6.0\Continuous_Subarray_Sum.csproj.AssemblyReference.cache
+C:\Users\paula\OneDrive\Área de Trabalho\python\Continuous_Subarray_Sum\obj\Debug\net6.0\Continuous_Subarray_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\OneDrive\Área de Trabalho\python\Continuous_Subarray_Sum\obj\Debug\net6.0\Continuous_Subarray_Sum.AssemblyInfoInputs.cache
+C:\Users\paula\OneDrive\Área de Trabalho\python\Continuous_Subarray_Sum\obj\Debug\net6.0\Continuous_Subarray_Sum.AssemblyInfo.cs
+C:\Users\paula\OneDrive\Área de Trabalho\python\Continuous_Subarray_Sum\obj\Debug\net6.0\Continuous_Subarray_Sum.csproj.CoreCompileInputs.cache
+C:\Users\paula\OneDrive\Área de Trabalho\python\Continuous_Subarray_Sum\bin\Debug\net6.0\Continuous_Subarray_Sum.exe
+C:\Users\paula\OneDrive\Área de Trabalho\python\Continuous_Subarray_Sum\bin\Debug\net6.0\Continuous_Subarray_Sum.deps.json
+C:\Users\paula\OneDrive\Área de Trabalho\python\Continuous_Subarray_Sum\bin\Debug\net6.0\Continuous_Subarray_Sum.runtimeconfig.json
+C:\Users\paula\OneDrive\Área de Trabalho\python\Continuous_Subarray_Sum\bin\Debug\net6.0\Continuous_Subarray_Sum.dll
+C:\Users\paula\OneDrive\Área de Trabalho\python\Continuous_Subarray_Sum\bin\Debug\net6.0\Continuous_Subarray_Sum.pdb
+C:\Users\paula\OneDrive\Área de Trabalho\python\Continuous_Subarray_Sum\obj\Debug\net6.0\Continuous_Subarray_Sum.dll
+C:\Users\paula\OneDrive\Área de Trabalho\python\Continuous_Subarray_Sum\obj\Debug\net6.0\refint\Continuous_Subarray_Sum.dll
+C:\Users\paula\OneDrive\Área de Trabalho\python\Continuous_Subarray_Sum\obj\Debug\net6.0\Continuous_Subarray_Sum.pdb
+C:\Users\paula\OneDrive\Área de Trabalho\python\Continuous_Subarray_Sum\obj\Debug\net6.0\Continuous_Subarray_Sum.genruntimeconfig.cache
+C:\Users\paula\OneDrive\Área de Trabalho\python\Continuous_Subarray_Sum\obj\Debug\net6.0\ref\Continuous_Subarray_Sum.dll
